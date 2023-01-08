@@ -1,2 +1,2 @@
 # Flujo-06
-NodeRed - Flujo 05
+NodeRed - Flujo 06
